@@ -1,0 +1,3 @@
+"church name"~location
+"basillica of bom jesus"~goa
+"velankanni church"~"tamil nadu"
