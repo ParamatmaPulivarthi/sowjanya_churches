@@ -1,0 +1,8 @@
+"church name"~location
+"basilica bom jesus"~goa
+velankanni~"tamil nadu"
+malayatoor~kerala
+"santa cruz basilica"~kochi
+christ~shimla
+"mount mary"~Shimla
+st.francis~kochi
